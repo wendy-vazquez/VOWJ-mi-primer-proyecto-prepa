@@ -10,7 +10,7 @@ o Consejo importante:  Elige un nombre de usuario profesional  (ej. tu nombre y 
 una variación) porque será público y te representará en la comunidad de desarrolladores.  
 4. Verifi ca tu cuenta:  Sigue las instrucciones para verificar tu correo electrónico.  
 ¡Felicidades! Ya eres parte de la comunidad de GitHub.  
-##Paso 2: Instala y configura Git en tu computadora  
+## Paso 2: Instala y configura Git en tu computadora  
 Git es la herramienta que te permitirá interactuar con GitHub desde tu comp utadora.  
 1. Descarga Git:  Ve a git-scm.com/downloads  y descarga el instalador para tu sistema operativo 
 (Windows, macOS o Linux).  
@@ -25,7 +25,7 @@ computadora. Git almacenará esto  en un archivo llamado .gitconfig .
 6. Verifica la configuración:  Para asegurarte de que todo está correcto, ejecuta:  
 7. git config --global --list 
 Deberías ver tu nombre de usuario y correo electrónico en la lista.  
-##Paso 3: Crea tu primer repositorio en GitHub ( ¡usando la interfaz web!)  
+## Paso 3: Crea tu primer repositorio en GitHub ( ¡usando la interfaz web!)  
 Vamos a crear un espacio para tu proyecto en la nube de GitHub.  
 1. Inicia sesión en GitHub:  Si no lo estás, entra a GitHub.com con tu nueva cuenta.  
 2. Crea un nuevo repositorio:  En la esquina superior derecha, busca un signo de más ( +) y haz clic en 
